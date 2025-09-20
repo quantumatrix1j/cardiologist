@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+*.venv
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Dataset folder (too large for Git)
+cad-cardiac-mri-dataset/
